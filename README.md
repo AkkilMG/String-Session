@@ -13,7 +13,7 @@ $ pkg install git ( If You Have Not Installed It In Termux)
 
 $ git clone https://github.com/HeimanPictures/String-Session
 
-$ cd 
+$ cd String-Session
 
 $ pkg install python ( If You Have Not Installed Python In Termux )
 

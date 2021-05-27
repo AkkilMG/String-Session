@@ -1,5 +1,29 @@
 # String-Session
 
+## Instructions
+
+Don't Fork This Or Try This For Time Being Its Not Tested Let Me Test It.
+
+## Installation
+
+### Generate String Session
+
+```
+$ pkg install git ( If You Have Not Installed It In Termux)
+
+$ git clone https://github.com/HeimanPictures/String-Session
+
+$ cd 
+
+$ pkg install python ( If You Have Not Installed Python In Termux )
+
+$ pip3 install -r requirements.txt
+
+$ python3 genstring.py
+```
+
+   After Following This You Will Receive The String Session In Your Saved Message (TG Cloud)
+
 
 ## [License](./LICENSE)
 
@@ -24,3 +48,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
+
+## Credits
+ 
+- [HeimanCreation](https://telegram.dog/HeimanCreation)

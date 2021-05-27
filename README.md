@@ -1,7 +1,7 @@
 # String-Session
 
 
-## License (./LICENSE)
+## [License](./LICENSE)
 
 ```
 

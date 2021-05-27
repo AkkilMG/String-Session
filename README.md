@@ -8,17 +8,26 @@ Don't Fork This Or Try This For Time Being Its Not Tested Let Me Test It.
 
 ### Generate String Session
 
+If You Have Not Installed GIT On Termux
+
 ```
-$ pkg install git ( If You Have Not Installed It In Termux)
-
+$ pkg install git 
+```
+```
 $ git clone https://github.com/HeimanPictures/String-Session
-
+```
+```
 $ cd String-Session
+```
+If You Have Not Installed Python On Termux, which is need to run pip
 
-$ pkg install python ( If You Have Not Installed Python In Termux )
-
+```
+$ pkg install python 
+```
+```
 $ pip3 install -r requirements.txt
-
+```
+```
 $ python3 genstring.py
 ```
 

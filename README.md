@@ -1,1 +1,8 @@
 # String-Session
+
+
+## License (./LICENSE)
+
+```
+
+```

@@ -46,6 +46,27 @@ python3 genstring_pyro.py
 
    After Following This You Will Receive The String Session In Your Saved Message (TG Cloud)
 
+## My Experience
+
+  Its Fast Then I Thought. Its Good For Users Who Use Userbot Or Other Bot Which are Deployed(Hosted) Through VPS By One Click
+This Will Help You In Getting The String Session in Two Unique Python Library Which Are Pyrogram And Telethon Library. The 
+Session Will Be Sent To Your Accounts Saved Message. 
+
+  If Any Issues Open An [Issues](https://github.com/HeimanPictures/String-Session/tree/Main/Issue)
+### Remember
+
+- Don't Ever Share Session Code With Others And Change Session Codes, if you have Shared.
+- Don't Depend On Others For This Little Job.
+- Try Using Phone Number When Running The Script As It Will Not Give Error and Won't Be Lost.
+- The Verification Code Will Be Sent To Telegram Account. So, There Is No Need Of Your Phone 
+Number On Your Device (For Virtual Number Users).
+- Don't Use Single String To All Bots Which Needs String Session As Vars. As You Can Generate
+New Session.
+
+### To-Do
+
+- Add Repl.it Support ( Coming Soon )
+- If Any Issues Then Resolving It..
 
 ## [License](./LICENSE)
 
@@ -53,7 +74,7 @@ python3 genstring_pyro.py
 Copyright (c) 2021 HEIMAN PICTURES
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
+in the Software without restriction, including without limitation the Rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is
 furnished to do so, subject to the following conditions:

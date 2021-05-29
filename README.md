@@ -62,5 +62,5 @@ SOFTWARE.
 
 ## Credits
  
-- [HeimanCreation](https://telegram.dog/HeimanCreation)
+- <b>[HeimanCreation](https://telegram.dog/HeimanCreation)</b>
 - Thanks To [Dan's](https://github.com/delivrance) <b>[Pyrogram Library](https://github.com/pyrogram/pyrogram)</b>

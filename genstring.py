@@ -6,7 +6,7 @@ heiman_ = """
 Copyright (C) 2021 by HeimanPictures@Github, < https://github.com/HeimanPictures >.
 This file is part of dev project,
 and is released under the "MIT License Agreement".
-Please see < https://github.com/HeimanPictures/String-Session/blob/master/LICENSE >
+Please see < https://github.com/HeimanPictures/String-Session/blob/Main/LICENSE >
 All rights reserved.
 """
 

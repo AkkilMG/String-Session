@@ -2,9 +2,9 @@
 
 ## Instructions
 
-This is a String Session Generator Script Which Is Accessible By Using environment (eg. Termux). It Quite Fast So Use It. Useful To Heroku User In Making Userbots.
+This is a String Session Generator Script Which Is Accessible By Using environment (eg. Termux). It Quite Fast So Use It. Useful To User In Making Userbots.
 
-<b>Made With ❤️ Using Pyrogram.. By Heiman</b>
+<b>Made With ❤️ By Heiman</b>
  
 ## Installation
 

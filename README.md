@@ -1,21 +1,20 @@
 # String-Session
 
-## Instructions
+## About
 
 This is a String Session Generator Script Which Is Accessible By Using environment (eg. Termux). It Quite Fast So Use It. Useful To User In Making Userbots.
 
-<b>Made With ❤️ By Heiman</b>
- 
+<b>Made With ❤️ Using By Heiman</b>
+
 ## Branches
 
 ### [Telethon](https://github.com/HeimanPictures/String-Session/tree/Telethon)
 
-   This Script Is Based On Telethon Library..
+   This Is String Session Generating Script Made By Using Telethon Library..
 
 ### [Pyrogram](https://github.com/HeimanPictures/String-Session/tree/Pyro)
 
-   This Script Is Based On Pyrogram Library..
-
+   This Is String Session Generating Script Made By Using Pyrogram Library..
 
 ## [License](./LICENSE)
 
@@ -44,3 +43,5 @@ SOFTWARE.
 ## Credits
  
 - <b>[HeimanCreation](https://telegram.dog/HeimanCreation)</b>
+- Thanks To [Dan's](https://github.com/delivrance) <b>[Pyrogram Library](https://github.com/pyrogram/pyrogram)</b>
+- Thanks To [Lonami's](https://github.com/Lonami) <b>[Telethon Library](https://github.com/LonamiWebs/Telethon)</b>

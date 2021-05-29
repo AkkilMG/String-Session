@@ -10,8 +10,9 @@ This is a String Session Generator Script Which Is Accessible By Using environme
 
 ### Generate String Session
 
-If You Have Not Installed GIT On Termux
+#### Terminal
 
+If You Have Not Installed GIT On Termux
 
 ```
  pkg install git 
@@ -45,6 +46,11 @@ python3 genstring_pyro.py
 ```
 
    After Following This You Will Receive The String Session In Your Saved Message (TG Cloud)
+
+#### Repl.it
+
+[![Run on Repl.it](https://repl.it/badge/github/jasonalantolbert/replit-badger)](https://repl.it/@heimanpictures/String-Session)
+
 
 ## My Experience
 

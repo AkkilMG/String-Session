@@ -52,7 +52,7 @@ python3 genstring_pyro.py
 This Will Help You In Getting The String Session in Two Unique Python Library Which Are Pyrogram And Telethon Library. The 
 Session Will Be Sent To Your Accounts Saved Message. 
 
-  If Any Issues Open An [Issues](https://github.com/HeimanPictures/String-Session/issues/new/choose) Or Contact Me Through My Support Group..
+  If Any Issues Open An [Issues](https://github.com/HeimanPictures/String-Session/issues/new/choose) Or Contact Me Through My [Support](https://github.com/HeimanPictures/String-Session/blob/Main/README.md#support) Group..
 
 ### Remember
 

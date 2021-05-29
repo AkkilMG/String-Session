@@ -31,6 +31,9 @@ For Telethon
 ```
 pip3 install -r requirements_tele.txt
 ```
+```
+python3 genstring_tele.py
+```
 <b>OR</b>
 
 For Pyrogram 
@@ -38,7 +41,7 @@ For Pyrogram
 pip3 install -r requirements_pyro.txt
 ```
 ```
-python3 genstring.py
+python3 genstring_pyro.py
 ```
 
    After Following This You Will Receive The String Session In Your Saved Message (TG Cloud)

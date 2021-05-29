@@ -1,10 +1,11 @@
 # String-Session
 
 ## Instructions
+ Not Ready For Now...
 
 This is a String Session Generator Script Which Is Accessible By Using environment (eg. Termux). It Quite Fast So Use It. Useful To Heroku User In Making Userbots.
 
-<b>Made With ❤️ Using Pyrogram.. By Heiman</b>
+<b>Made With ❤️ Using Telethon.. By Heiman</b>
 
 ## Installation
 
@@ -16,7 +17,7 @@ If You Have Not Installed GIT On Termux
 $ pkg install git 
 ```
 ```
-$ git clone https://github.com/HeimanPictures/String-Session
+$ git clone https://github.com/HeimanPictures/String-Session/tree/Telethon
 ```
 ```
 $ cd String-Session

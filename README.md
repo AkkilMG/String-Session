@@ -63,3 +63,4 @@ SOFTWARE.
 ## Credits
  
 - [HeimanCreation](https://telegram.dog/HeimanCreation)
+- Thanks To [Lonami's](https://github.com/Lonami) <b>[Telethon Library](https://github.com/LonamiWebs/Telethon)</b>

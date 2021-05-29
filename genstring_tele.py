@@ -41,6 +41,3 @@ with TelegramClient(StringSession(), api_id, api_hash) as client:
 <code>STRING_SESSION</code>: <code>{}</code>
 ⚠️ <i>Please be carefull to pass this value to third parties</i>""".format(session_string)
     client.send_message("me", saved_messages_template, parse_mode="html")
-
-#   print(client.session.save())
-#    client.send_message("me", client.session.save())

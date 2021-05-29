@@ -16,7 +16,7 @@ If You Have Not Installed GIT On Termux
 $ pkg install git 
 ```
 ```
-$ git clone https://github.com/HeimanPictures/String-Session/tree/Telethon
+$ git clone https://github.com/HeimanPictures/String-Session/tree/Pyrogram
 ```
 ```
 $ cd String-Session

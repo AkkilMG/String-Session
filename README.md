@@ -1,20 +1,40 @@
 # String-Session
 
-## About
+## Instructions
 
-This is a String Session Generator Script Which Is Accessible By Using environment (eg. Termux). It Quite Fast So Use It. Useful To User In Making Userbots.
+This is a String Session Generator Script Which Is Accessible By Using environment (eg. Termux). It Quite Fast So Use It. Useful To Heroku User In Making Userbots.
 
-<b>Made With ❤️ Using By Heiman</b>
+<b>Made With ❤️ Using Telethon.. By Heiman</b>
 
-## Branches
+## Installation
 
-### [Telethon](https://github.com/HeimanPictures/String-Session/tree/Telethon)
+### Generate String Session
 
-   This Is String Session Generating Script Made By Using Telethon Library..
+If You Have Not Installed GIT On Termux
 
-### [Pyrogram](https://github.com/HeimanPictures/String-Session/tree/Pyro)
+```
+$ pkg install git 
+```
+```
+$ git clone https://github.com/HeimanPictures/String-Session/tree/Telethon
+```
+```
+$ cd String-Session
+```
+If You Have Not Installed Python On Termux, which is need to run pip
 
-   This Is String Session Generating Script Made By Using Pyrogram Library..
+```
+$ pkg install python 
+```
+```
+$ pip3 install -r requirements.txt
+```
+```
+$ python3 genstring.py
+```
+
+   After Following This You Will Receive The String Session In Your Saved Message (TG Cloud)
+
 
 ## [License](./LICENSE)
 
@@ -42,6 +62,5 @@ SOFTWARE.
 
 ## Credits
  
-- <b>[HeimanCreation](https://telegram.dog/HeimanCreation)</b>
+- [HeimanCreation](https://telegram.dog/HeimanCreation)
 - Thanks To [Dan's](https://github.com/delivrance) <b>[Pyrogram Library](https://github.com/pyrogram/pyrogram)</b>
-- Thanks To [Lonami's](https://github.com/Lonami) <b>[Telethon Library](https://github.com/LonamiWebs/Telethon)</b>

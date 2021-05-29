@@ -1,6 +1,6 @@
 # String-Session
 
-## Instructions
+## About
 
 This is a String Session Generator Script Which Is Accessible By Using environment (eg. Termux). It Quite Fast So Use It. Useful To Heroku User In Making Userbots.
 

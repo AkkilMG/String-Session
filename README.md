@@ -6,34 +6,15 @@ This is a String Session Generator Script Which Is Accessible By Using environme
 
 <b>Made With ❤️ By Heiman</b>
  
-## Installation
+## Branches
 
-### Generate String Session
+### [Telethon](https://github.com/HeimanPictures/String-Session/tree/Telethon)
 
-If You Have Not Installed GIT On Termux
+   This Script Is Based On Telethon Library..
 
-```
-$ pkg install git 
-```
-```
-$ git clone https://github.com/HeimanPictures/String-Session
-```
-```
-$ cd String-Session
-```
-If You Have Not Installed Python On Termux, which is need to run pip
+### [Pyrogram](https://github.com/HeimanPictures/String-Session/tree/Pyro)
 
-```
-$ pkg install python 
-```
-```
-$ pip3 install -r requirements.txt
-```
-```
-$ python3 genstring.py
-```
-
-   After Following This You Will Receive The String Session In Your Saved Message (TG Cloud)
+   This Script Is Based On Pyrogram Library..
 
 
 ## [License](./LICENSE)
@@ -62,4 +43,4 @@ SOFTWARE.
 
 ## Credits
  
-- [HeimanCreation](https://telegram.dog/HeimanCreation)
+- <b>[HeimanCreation](https://telegram.dog/HeimanCreation)</b>

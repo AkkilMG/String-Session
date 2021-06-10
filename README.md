@@ -6,13 +6,15 @@ This is a String Session Generator Script Which Is Accessible By Using environme
 
 <b>Made With ❤️ Using By Heiman</b>
 
+--------
+
 ## Installation
 
 - [Pyrogram String](https://github.com/HeimanPictures/String-Session/wiki/Installation#pyrogram-session)
 
 - [Telethon String](https://github.com/HeimanPictures/String-Session/wiki/Installation#telethon)
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------
 
 ## Wiki
 

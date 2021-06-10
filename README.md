@@ -6,29 +6,23 @@ This is a String Session Generator Script Which Is Accessible By Using environme
 
 <b>Made With ❤️ Using By Heiman</b>
 
---------
 
 ## Installation
 
-- [Pyrogram String](https://github.com/HeimanPictures/String-Session/wiki/Installation#pyrogram-session)
+- <b>[Pyrogram String](https://github.com/HeimanPictures/String-Session/wiki/Installation#pyrogram-session)</b>
 
-- [Telethon String](https://github.com/HeimanPictures/String-Session/wiki/Installation#telethon)
+- <b>[Telethon String](https://github.com/HeimanPictures/String-Session/wiki/Installation#telethon)</b>
 
----------
 
 ## Wiki
 
-- [How To Get API](https://github.com/HeimanPictures/String-Session/wiki/APIs#telegram-apis)
+- <b>[How To Get API](https://github.com/HeimanPictures/String-Session/wiki/APIs#telegram-apis)</b>
 
-- [Installation](https://github.com/HeimanPictures/String-Session/wiki/Installation#installation-to-get-string-session)
+- <b>[Installation](https://github.com/HeimanPictures/String-Session/wiki/Installation#installation-to-get-string-session)</b>
 
-    - [Pyrogram String](https://github.com/HeimanPictures/String-Session/wiki/Installation#pyrogram-session)
+    - <b>[Pyrogram String](https://github.com/HeimanPictures/String-Session/wiki/Installation#pyrogram-session)</b>
 
-    - [Telethon String](https://github.com/HeimanPictures/String-Session/wiki/Installation#telethon)
-
-#### Repl.it (Not Yet Ready)
-
-[![Run on Repl.it](https://repl.it/badge/github/jasonalantolbert/replit-badger)](https://repl.it/@heimanpictures/String-Session)
+    - <b>[Telethon String](https://github.com/HeimanPictures/String-Session/wiki/Installation#telethon)</b>
 
 
 ## My Experience

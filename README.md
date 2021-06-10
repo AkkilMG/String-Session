@@ -8,44 +8,21 @@ This is a String Session Generator Script Which Is Accessible By Using environme
 
 ## Installation
 
-### Generate String Session
+- [Pyrogram String](https://github.com/HeimanPictures/String-Session/wiki/Installation#pyrogram-session)
 
-#### Terminal
+- [Telethon String](https://github.com/HeimanPictures/String-Session/wiki/Installation#telethon)
 
-If You Have Not Installed GIT On Termux
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-```
- pkg install git 
-```
-```
-git clone https://github.com/HeimanPictures/String-Session
-```
-```
-cd String-Session
-```
-If You Have Not Installed Python On Termux, which is need to run pip
+## Wiki
 
-```
-pkg install python 
-```
-For Telethon
-```
-pip3 install -r requirements_tele.txt
-```
-```
-python3 genstring_tele.py
-```
-<b>OR</b>
+- [How To Get API](https://github.com/HeimanPictures/String-Session/wiki/APIs#telegram-apis)
 
-For Pyrogram 
-```
-pip3 install -r requirements_pyro.txt
-```
-```
-python3 genstring_pyro.py
-```
+- [Installation](https://github.com/HeimanPictures/String-Session/wiki/Installation#installation-to-get-string-session)
 
-   After Following This You Will Receive The String Session In Your Saved Message (TG Cloud)
+    - [Pyrogram String](https://github.com/HeimanPictures/String-Session/wiki/Installation#pyrogram-session)
+
+    - [Telethon String](https://github.com/HeimanPictures/String-Session/wiki/Installation#telethon)
 
 #### Repl.it (Not Yet Ready)
 

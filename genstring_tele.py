@@ -23,6 +23,13 @@ from telethon.sessions import StringSession
 from telethon.sync import TelegramClient
 
 heiman_ = """
+xx    xx  xxxxxx  xx  xxx      xxx      xxx      xxx   xx
+xx    xx  xx      xx  xxxx    xxxx     xx xx     xxxx  xx
+xxxxxxxx  xxxxxx  xx  xx xx  xx xx    xxxxxxx    xx xx xx
+xx    xx  xx      xx  xx  xxx   xx   xx     xx   xx  xxxx
+xx    xx  xxxxxx  xx  xx   x    xx  xx       xx  xx   xxx
+▲                     ---➤ HeimanPictures/String-Session                      HC▼
+
 Copyright (C) 2021 by HeimanPictures@Github, < https://github.com/HeimanPictures >.
 This file is part of dev project,
 and is released under the "MIT License Agreement".
